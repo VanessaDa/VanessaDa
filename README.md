@@ -1,16 +1,15 @@
-## Hi there 👋
+# Vanessa Baart
 
-<!--
-**VanessaDa/VanessaDa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi, I’m Vanessa Baart 👋. I’m interested in mobile and web development 📱💻. I am focused on improving efficiency in HTML, CSS, and JavaScript. I'm excited to face challenges, learn from failures, and celebrate my successes along the way 🎉.
 
-Here are some ideas to get you started:
+## Fun Fact
+My 5-year-old's coding homework inspired me to learn how to code 😄.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Skills
+- Leadership 👩‍🏫
+- Flexibility 🤸‍♀️
+- Team player 🤝
+
+## Goals
+- Build a portfolio of my projects and accomplishments to showcase my skills 🏆
